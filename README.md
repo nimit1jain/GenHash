@@ -14,4 +14,7 @@ Flask is a tool used to make web applications using Python. This flask applicati
 4. saved models
 5. vocab.pkl
 6. app.py
-The app.py has four primary functions which define the flow of the application. First is load_image(); it loads the image and resizes it according to the model. The second is the process() function which does all the image preprocessing. It transforms the image and loads the vocabulary wrapper using the save pkl file. Then the model is loaded with the defined weights and layers. The features are encoded using these models, and the caption is generated. The predict() function includes all the paths for the files and is called when the upload() function uploads the image.
+The app.py has four primary functions which define the flow of the application. First is load_image(); it loads the image and resizes it according to the model. The second is the process() function which does all the image preprocessing. It transforms the image and loads the vocabulary wrapper using the save pkl file. Then the model is loaded with the defined weights and layers. The features are encoded using these models, and the hashtags are generated. The predict() function includes all the paths for the files and is called when the upload() function uploads the image.
+The encoder and decoder files are big therefore providing the drive link for them here.
+encoder: https://drive.google.com/file/d/1-ZT7IeR9hdpJjFClldUWIr-Bpm3o3UYt/view?usp=sharing
+decoder: https://drive.google.com/file/d/1ypyJZ8AAZwcSE3nBiPJ3wGuYh-2K24Ni/view?usp=sharing
