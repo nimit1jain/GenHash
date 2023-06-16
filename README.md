@@ -18,3 +18,4 @@ The app.py has four primary functions which define the flow of the application. 
 The encoder and decoder files are big therefore providing the drive link for them here.
 encoder: https://drive.google.com/file/d/1-ZT7IeR9hdpJjFClldUWIr-Bpm3o3UYt/view?usp=sharing
 decoder: https://drive.google.com/file/d/1ypyJZ8AAZwcSE3nBiPJ3wGuYh-2K24Ni/view?usp=sharing
+Link of the Screen recording of the code and the Web application: https://drive.google.com/drive/folders/1oz2IglnHGvDT_zXILTmdakJDgMBVWNpM?usp=sharing
